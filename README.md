@@ -1,9 +1,9 @@
 Welcome To The Jungle!
 
-My name is Augusto, i am a 16 years old brazilean student 
+My name is Augusto, i am a 16 years old brazilean student.
 I being obliged to do this profile, so i must say something i know.
-I dont know much about progammation, but i know a little things
-Like use jps5 editor to do some codes, a litte of scratch (i dont like that).
+I dont know much about progammation, but i know a little things,
+like use jps5 editor to do some codes, a litte of scratch (i dont like that).
 This is 1% about me, but it is what it is.
 
 
